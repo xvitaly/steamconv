@@ -6,6 +6,6 @@ SteamID Converters Class
  * из SteamID64 в SteamID32;
  * из SteamID32 в UserID (используется в качестве названия каталога внутри /Steam/userdata/).
 
-Требования: PHP 5.2 и выше, собранным с модулем BCMath.
+Требования: PHP 5.2 и выше, собранный с модулем BCMath.
 
 Лицензия: GNU GPL v3.
